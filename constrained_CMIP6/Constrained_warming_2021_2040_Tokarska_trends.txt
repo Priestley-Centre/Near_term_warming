@@ -1,0 +1,43 @@
+#============================================
+Warming trends for 2021-2040, using constraint based on the observed warming trend for 1981-2017 (based on Tokarska et al., Sci Adv. 2020)
+#============================================
+#--------------------------------------------------------------------
+SSP 5-8.5
+
+mean_raw = 0.3603
+median_val_raw = 0.3485
+likely_raw = 0.2812, 0.4534             # 17-83%
+range_90_raw = 0.2115, 0.5777     # 5-95% range
+
+mean_val_constrained =  0.3034
+median_val_constrained = 0.3039
+likely_constrained = 0.2255, 0.3816
+range90_constrained = 0.1677, 0.4374
+
+#--------------------------------------------------------------------
+SSP 3-7.0
+
+mean_raw =  0.3316
+median_val_raw = 0.3371
+likely_raw = 0.2257, 0.3842
+range_90_raw = 0.1980, 0.5449
+
+mean_val_constrained = 0.2850
+median_val_constrained = 0.2854
+likely_constrained = 0.2140, 0.3560
+range90_constrained = 0.1617, 0.4069
+
+#--------------------------------------------------------------------
+SSP 1-2.6
+
+mean_raw = 0.2212
+median_val_raw = 0.2217
+likely_raw = 0.1160, 0.3024
+range_90_raw = 0.0864, 0.3875
+
+mean_val_constrained =  0.1842
+median_val_constrained =   0.1845
+likely_constrained =  0.1086, 0.2598
+range90_constrained = 0.0529, 0.3143
+#--------------------------------------------------------------------
+#============================================
