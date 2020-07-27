@@ -2,7 +2,7 @@
 
 # Note
 
-The data in this repository relates to the following paper in review:
+The data and code in this repository relates to the following paper in review:
 
 McKenna C. M., A. C. Maycock, P. M. Forster, C. J. Smith, K. B. Tokarska, Stringent mitigation substantially reduces risk of unprecedented near-term warming rates, Nature Climate Change, in review.
 
@@ -31,6 +31,10 @@ Cowtan-Way version 2 updated with HadSST3: https://www-users.york.ac.uk/~kdc3/pa
 
 GISTEMP version 4: https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv
 
+
+# Analysis and figure code
+
+Code used to conduct the analysis and produce the figures. 
 
 
 
