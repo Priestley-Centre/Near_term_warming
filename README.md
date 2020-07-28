@@ -12,12 +12,18 @@ The data was processed with funding from the European Union’s CONSTRAIN projec
 # FaIR data
 
 ## Temperature
-Time-series of annual global surface air temperature (GSAT) anomalies for 500 FaIR simple model simulations using historical emissions and future emissions scenarios (NDCs, SSP1-1.9, SSP1-2.6, SSP3-7.0, and SSP5-8.5). Anomalies are calculated with respect to 1850-1900. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and ERF that reflect our latest understanding since IPCC SR1.5. Files listed use two different time-series of aerosol ERF: the default CMIP6 aerosol ERF, or the aerosol ERF from AR5.
+Time-series of annual global surface air temperature (GSAT) anomalies for 500 FaIR simple climate model simulations using historical emissions and future emissions scenarios (NDCs, SSP1-1.9, SSP1-2.6, SSP3-7.0, and SSP5-8.5). Anomalies are calculated with respect to 1850-1900. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and ERF that reflect our latest understanding since IPCC SR1.5. Files listed use two different time-series of aerosol ERF: the default CMIP6 aerosol ERF, or the aerosol ERF from AR5.
+
+## Emissions
+Time-series of emissions for each emissions scenario; the SSP datasets were obtained from https://www.rcmip.org/ and the NDCs dataset was provided by Joeri Rogelj. Components and units are listed in 'emissions_labels.csv', and for minor GHGs the unit is kilotons/year.
+
+## ECS, TCR, and ERF
+TO UPDATE
 
 
 # Constrained CMIP6 data
 
-Warming trends and anomalies for 2021-2040, using a constraint based on the observed warming trend for 1981-2017 (based on Tokarska et al., Sci Adv. 2020: https://doi.org/10.1126/sciadv.aaz9549). Trends and anomalies are calculated from CMIP6 GSAT data for the future emissions scenarios SSP1-2.6, SSP3-7.0, and SSP5-8.5. See Tokarska et al. 2020 for further details on the CMIP6 and observational data used. 
+Warming trends and anomalies for 2021-2040, using a constraint based on the observed warming trend for 1981-2017 (based on Tokarska et al., Sci Adv. 2020: https://doi.org/10.1126/sciadv.aaz9549). Trends and anomalies are calculated from CMIP6 GSAT data for the future emissions scenarios SSP1-2.6, SSP3-7.0, and SSP5-8.5. See Tokarska et al. 2020 for further details on the CMIP6 and observational data used. Data are provided both as a raw text file, and in a form for use with the relevant Python code provided
 
 
 # Observation-based data
@@ -33,9 +39,14 @@ Cowtan-Way version 2 updated with HadSST3: https://www-users.york.ac.uk/~kdc3/pa
 GISTEMP version 4: https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv
 
 
+# Internal variability data
+
+Observation-based estimates of internal variability in 20-year GSAT trends and anomalies. This data is provided here in processed form for use with the relevant Python code provided. The raw data used to calculate these are based on Haustein et al. (2019; https://doi.org/10.1175/JCLI-D-18-0555.1) and were provided by Karsten Haustein. 
+
+
 # Analysis and figure code
 
-Code used to conduct the analysis and produce the figures. 
+Python code used to conduct the analysis and produce the figures/tables. Any additional data required to run this code, and not listed above, is provided in the folder for the relevant figure/table.
 
 
 
