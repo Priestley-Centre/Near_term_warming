@@ -23,7 +23,7 @@ TO UPDATE
 
 # Constrained CMIP6 data
 
-Warming trends and anomalies for 2021-2040, using a constraint based on the observed warming trend for 1981-2017 (based on Tokarska et al., Sci Adv. 2020: https://doi.org/10.1126/sciadv.aaz9549). Trends and anomalies are calculated from CMIP6 GSAT data for the future emissions scenarios SSP1-2.6, SSP3-7.0, and SSP5-8.5. See Tokarska et al. 2020 for further details on the CMIP6 and observational data used. Data are provided both as a raw text file, and in a form for use with the relevant Python code provided
+Warming trends and anomalies for 2021-2040, using a constraint based on the observed warming trend for 1981-2017 (based on Tokarska et al., Sci Adv. 2020: https://doi.org/10.1126/sciadv.aaz9549). Trends and anomalies are calculated from CMIP6 GSAT data for the future emissions scenarios SSP1-2.6, SSP3-7.0, and SSP5-8.5. See Tokarska et al. 2020 for further details on the CMIP6 and observational data used. Data are provided both as a raw text file, and in a form for use with the relevant Python code provided.
 
 
 # Observation-based data
@@ -41,7 +41,7 @@ GISTEMP version 4: https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.c
 
 # Internal variability data
 
-Observation-based estimates of internal variability in 20-year GSAT trends and anomalies. This data is provided here in processed form for use with the relevant Python code provided. The raw data used to calculate these are based on Haustein et al. (2019; https://doi.org/10.1175/JCLI-D-18-0555.1) and were provided by Karsten Haustein. 
+Observation-based estimates of internal variability in 20-year GSAT trends and anomalies. This data is provided here in processed form only for use with the relevant Python code provided. The raw data used to calculate these are based on Haustein et al. (2019; https://doi.org/10.1175/JCLI-D-18-0555.1) and were provided by Karsten Haustein. 
 
 
 # Analysis and figure code
