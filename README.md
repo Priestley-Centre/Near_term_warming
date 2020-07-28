@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/257904489.svg)](https://zenodo.org/badge/latestdoi/257904489)
 
-## Note
+# Note
 
 The data and code in this repository relates to the following paper in review:
 
@@ -11,6 +11,7 @@ The data was processed with funding from the European Union’s CONSTRAIN projec
 
 # FaIR data
 
+## Temperature
 Time-series of annual global surface air temperature (GSAT) anomalies for 500 FaIR simple model simulations using historical emissions and future emissions scenarios (NDCs, SSP1-1.9, SSP1-2.6, SSP3-7.0, and SSP5-8.5). Anomalies are calculated with respect to 1850-1900. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and ERF that reflect our latest understanding since IPCC SR1.5. Files listed use two different time-series of aerosol ERF: the default CMIP6 aerosol ERF, or the aerosol ERF from AR5.
 
 
