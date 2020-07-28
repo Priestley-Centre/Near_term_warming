@@ -46,7 +46,7 @@ Observation-based estimates of internal variability in 20-year GSAT trends and a
 
 # Analysis and figure code
 
-Python code used to conduct the analysis and produce the figures/tables. Any additional data required to run this code, and not listed above, is provided in the folder for the relevant figure/table.
+Python code used to conduct the analysis and produce the figures/tables. Any additional data required to run this code (e.g. the CMIP6 pre-industrial control simulation GSAT data), and not listed above, is provided in the folder for the relevant figure/table.
 
 
 
