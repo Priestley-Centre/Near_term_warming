@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/257904489.svg)](https://zenodo.org/badge/latestdoi/257904489)
 
-# Note
+## Note
 
 The data and code in this repository relates to the following paper in review:
 
