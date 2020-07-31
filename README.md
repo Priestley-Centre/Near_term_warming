@@ -15,7 +15,7 @@ The data was processed with funding from the European Union’s CONSTRAIN projec
 Time-series of annual global surface air temperature (GSAT) anomalies for 500 FaIR simple climate model simulations using historical emissions and future emissions scenarios (NDCs, SSP1-1.9, SSP1-2.6, SSP3-7.0, and SSP5-8.5). Anomalies are calculated with respect to 1850-1900. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and ERF that reflect our latest understanding since IPCC SR1.5. Files listed use two different time-series of aerosol ERF: the default CMIP6 aerosol ERF, or the aerosol ERF from AR5.
 
 ## Emissions
-Time-series of emissions for each emissions scenario; the SSP datasets were obtained from https://www.rcmip.org/ and the NDCs dataset was provided by Joeri Rogelj. Components and units are listed in 'emissions_labels.csv', and for minor GHGs the unit is kilotons/year.
+Time-series of emissions for each emissions scenario; the SSP datasets were obtained from https://www.rcmip.org/ and the NDCs dataset was provided by Joeri Rogelj. Units are given for all major GHGs and SLCFs, and for minor GHGs the unit is kilotons/year.
 
 ## ECS, TCR, and ERF
 TO UPDATE
