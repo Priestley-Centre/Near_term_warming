@@ -1,3 +1,1 @@
-Time-series of annual GSAT anomalies (relative to 1850-1900) from the 500 FaIR simulations for each emissions pathway.
-
-Files listed use two different time-series of aerosol ERF: the default CMIP6 aerosol ERF, or the aerosol ERF from AR5.
+Time-series of annual global surface air temperature (GSAT) anomalies for 500 FaIR simple climate model simulations using historical emissions and future emissions scenarios (NDCs, SSP1-1.9, SSP1-2.6, SSP3-7.0, and SSP5-8.5). Anomalies are calculated with respect to 1850-1900. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and ERF that reflect our latest understanding since IPCC SR1.5. Files listed use two different time-series of aerosol ERF: the default CMIP6 aerosol ERF, or the aerosol ERF from AR5.
