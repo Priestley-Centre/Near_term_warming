@@ -1,3 +1,1 @@
-Emissions time series used in the FaIR simulations.
-
-Units are given for all major GHGs and SLCFs. For the minor GHGs, the unit is kilotons/year.
+Time-series of emissions for each emissions scenario; the SSP datasets were obtained from https://www.rcmip.org/ and the NDCs dataset was provided by Joeri Rogelj. Units are given for all major GHGs and SLCFs, and for minor GHGs the unit is kilotons/year.
