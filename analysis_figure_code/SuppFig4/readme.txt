@@ -1,1 +1,1 @@
-Code to produce Supplementary Figure 4.
+Code to produce Supplementary Figure 4
