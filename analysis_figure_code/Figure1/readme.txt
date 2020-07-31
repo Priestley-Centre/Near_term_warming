@@ -1,1 +1,1 @@
-Code to produce Figure 1
+Code to produce Figure 1.
