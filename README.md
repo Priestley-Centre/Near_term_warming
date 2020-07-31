@@ -18,7 +18,7 @@ Time-series of annual global surface air temperature (GSAT) anomalies for 500 Fa
 Time-series of emissions for each emissions scenario; the SSP datasets were obtained from https://www.rcmip.org/ and the NDCs dataset was provided by Joeri Rogelj. Units are given for all major GHGs and SLCFs, and for minor GHGs the unit is kilotons/year.
 
 ## ECS, TCR, and ERF
-TO UPDATE
+Distributions of ECS, TCR, and ERF, used to generate each set of 500 simulations. Also contains time-series of the ERF, both for its total and for individual forcing agents. Both versions of the aerosol ERF time-series described above are given.
 
 
 # Constrained CMIP6 data
