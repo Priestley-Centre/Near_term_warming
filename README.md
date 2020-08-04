@@ -12,7 +12,7 @@ The data was processed with funding from the European Union’s CONSTRAIN projec
 
 # FaIR code
 
-Code to setup and run FaIR simulations.
+Code to setup and run FaIR simulations (see description of these simulations below).
 
 
 # FaIR data
