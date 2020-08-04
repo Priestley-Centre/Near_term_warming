@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/257904489.svg)](https://zenodo.org/badge/latestdoi/257904489)
 
+
 # Note
 
 The data and code in this repository relates to the following paper in review:
@@ -7,6 +8,11 @@ The data and code in this repository relates to the following paper in review:
 McKenna C. M., A. C. Maycock, P. M. Forster, C. J. Smith, K. B. Tokarska, Stringent mitigation substantially reduces risk of unprecedented near-term warming rates, Nature Climate Change, in review.
 
 The data was processed with funding from the European Union’s CONSTRAIN project as part of the Horizon 2020 Research and Innovation Programme under grant agreement number 820829.
+
+
+# FaIR code
+
+Code to setup and run FaIR simulations.
 
 
 # FaIR data
