@@ -1,0 +1,3 @@
+# Don't commit notebook checkpoints and swap files
+.ipynb_checkpoints
+*.swp

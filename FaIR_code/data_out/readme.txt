@@ -1,1 +1,1 @@
-If running 'run_FaIR_simulations.ipynb', the FaIR simulation data will be output into this 'data_out' folder. For clarity here, the data have instead been organised into folders with descriptions in 'Priestley-Centre/Near_term_warming/FaIR_data/'. 
+The CSV output is organised into folders with descriptions in 'Priestley-Centre/Near_term_warming/FaIR_data/'. 
