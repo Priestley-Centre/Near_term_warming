@@ -3,11 +3,11 @@
 
 # Note
 
-The data and code in this repository relates to the following paper in review:
+The data and code in this repository relates to the following paper:
 
-McKenna C. M., A. C. Maycock, P. M. Forster, C. J. Smith, K. B. Tokarska, Stringent mitigation substantially reduces risk of unprecedented near-term warming rates, Nature Climate Change, in review.
+McKenna C. M., A. C. Maycock, P. M. Forster, C. J. Smith, K. B. Tokarska, Stringent mitigation substantially reduces risk of unprecedented near-term warming rates, Nature Climate Change, in press (2020); https://doi.org/10.1038/s41558-020-00957-9.
 
-The data was processed with funding from the European Union’s CONSTRAIN project as part of the Horizon 2020 Research and Innovation Programme under grant agreement number 820829.
+The data was processed with funding from the European Union’s CONSTRAIN project as part of the Horizon 2020 Research and Innovation Programme under grant agreement number 820829. A.C.M. was also supported by the Natural Environment Research Council (grant no. NE/M018199/1) and Leverhulme Trust. C.J.S. also was supported by a NERC/IIASA Collaborative Research Fellowship (no. NE/T009381/1).
 
 
 # FaIR code
